@@ -3,6 +3,8 @@ layout: default
 title: Início
 ---
 
+![logo](img/logo.png)
+
 # Olá
 
 Me chamo Bia Brandão.
@@ -19,9 +21,8 @@ E desde já, é claro, agradeço pela confiança!
 
 Bem-vindo!
 
-![Massas](img/inicio-massas.jpg)
-![Doces Bia Brandão](img/inicio-1.jpg)
-![Doces Bia Brandão](img/inicio-2.jpg)
+![Doces Bia Brandão](img/0_bolo_apresentacao.jpg)
+![Doces Bia Brandão](img/0_foto_apresentacao.png)
 
 <a class="whats" href="https://wa.me/5547992220924">Pedidos pelo WhatsApp: (47) 99222-0924</a>
 
