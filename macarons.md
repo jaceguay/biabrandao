@@ -15,10 +15,10 @@ São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo d
 - Pagamento de 50% adiantado na confirmação; restante até a retirada. Dinheiro, PIX ou transferência.
 - Cores fortes, dependendo do corante, podem ter valor adicional.
 
-![Macarons](img/macarons-1.jpg)
-![Macarons](img/macarons-2.jpg)
-![Macarons](img/macarons-3.jpg)
-![Macarons](img/macarons-4.jpg)
+![Macarons](img/1_macarons_1.jpg)
+![Macarons](img/1_macarons_2.jpg)
+![Macarons](img/1_macarons_3.jpg)
+![Macarons](img/1_macarons_4.jpg)
 
 ## Sabores
 
@@ -48,8 +48,9 @@ Caramelo salgado, limão siciliano, maracujá, avelã, ninho, doce de leite, nin
 
 ## Torre de macarons
 
-![Torre de macarons](img/macarons-torre-1.jpg)
-![Torre de macarons](img/macarons-torre-2.jpg)
+![Torre de macarons](img/1_macarons_torre_1.jpg)
+![Torre de macarons](img/1_macarons_torre_2.jpg)
+![Torre de macarons](img/1_macarons_torre_3.jpg)
 
 <table>
 <tr><th>Andares</th><th>Unidades</th><th>Tradicional</th><th>Personalizado</th></tr>
