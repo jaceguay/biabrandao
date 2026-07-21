@@ -106,33 +106,33 @@ Massa amanteigada. Recheio de baba de moça, brigadeiro de pistache e creme 4 le
 
 **R$ 115,00 o kg**, com adicional do recheio de pistache a partir de R$ 18,00 dependendo do tamanho.
 
-## Nossas massas
+# Nossas massas
 
 Pão de ló de baunilha, pão de ló de chocolate, chocolate com iogurte, amanteigada, red velvet. Podem ser saborizadas com pasta de baunilha, limão siciliano e mirtilo.
 
-## Recheios
+# Recheios
 
 4 leites, baba de moça, doce de leite, prestígio, damasco, strogonoff de nozes, morango, baunilha, redução de frutas vermelhas, brigadeiro branco, brigadeiro de chocolate. Ganache de chocolate meio amargo ou branco, ganache de limão siciliano e brigadeiro de pistache têm taxa adicional. Sabor personalizado a critério do cliente.
 
 **R$ 115,00 o kg.**
 
-## Sem lactose
+# Sem lactose
 
 **R$ 118,00 o kg.** Livre de lactose para intolerantes. Pode haver contaminação cruzada, portanto não indicado para celíacos.
 
 Massas: baunilha, chocolate. Recheios: brigadeiro branco, brigadeiro de chocolate, brigadeiro de pistache (taxa adicional), damasco, ameixa, morango, baba de moça, doce de leite, strogonoff de nozes, prestígio. Cobertura: merengue suíço, pode ser maçaricado.
 
-## Adicionais
+# Adicionais
 
 Cobrados à parte, consultar no orçamento. Flores naturais (a partir de R$ 22), frutas vermelhas (a partir de R$ 35), recheio com pistache (a partir de R$ 18 por camada). Topo em scrapbook, terceirizado, por tamanho: 15 cm R$ 18, 17 cm R$ 20, 20 cm R$ 25, 23 cm R$ 35, 25 cm R$ 40. Cobertura em cores que exigem corante extra a partir de R$ 10 a R$ 12. Decoração com macarons R$ 8 a unidade. Glitter e pó decorativo, 5 g por R$ 16. Taxa de decoração a partir de R$ 12.
 
-## Tamanhos e rendimentos
+# Tamanhos e rendimentos
 
 ![Tabela de tamanhos e rendimentos](img/bolos_tamanhos_ref.png)
 
 Bolos com massa amanteigada pesam mais. Recheio e decoração influenciam no peso final.
 
-## Informações gerais
+# Informações gerais
 
 **Pedidos:** WhatsApp (47) 99222-0924, com 3 dias de antecedência e sujeitos à disponibilidade.
 
