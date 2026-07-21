@@ -1,1 +1,1 @@
-[[https://jaceguay.github.io/biabrandao/]]
+https://jaceguay.github.io/biabrandao/
