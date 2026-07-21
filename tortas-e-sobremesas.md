@@ -27,7 +27,7 @@ title: Tortas e Sobremesas
 
 ## Torta Camila
 
-![Torta Camila](img/torta-camila.jpg)
+![Torta Camila](img/4_torta_camila_1.jpg)
 
 Casquinha de biscoito com raspas de limão. Recheio de quatro leites com redução de frutas vermelhas, strogonoff de nozes e damasco. Camadas finas de pão de ló.
 
