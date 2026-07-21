@@ -53,7 +53,7 @@ Caramelo salgado, limão siciliano, maracujá, avelã, ninho, doce de leite, nin
 ![Torre de macarons](img/1_macarons_torre_3.jpg)
 
 <table>
-<tr><th>Andares</th><th>Unid.</th><th>Tradicional</th><th>Personalizado</th></tr>
+<tr><th>Andares</th><th>Unid.</th><th>Trad.</th><th>Personalizado</th></tr>
 <tr><td>4</td><td>37</td><td>R$ 331</td><td>R$ 368</td></tr>
 <tr><td>5</td><td>55</td><td>R$ 485</td><td>R$ 535</td></tr>
 <tr><td>6</td><td>75</td><td>R$ 660</td><td>R$ 735</td></tr>
