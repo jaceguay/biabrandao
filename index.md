@@ -19,9 +19,9 @@ E desde já, é claro, agradeço pela confiança!
 
 Bem-vindo!
 
-![Massas](/img/inicio-massas.jpg)
-![Doces Bia Brandão](/img/inicio-1.jpg)
-![Doces Bia Brandão](/img/inicio-2.jpg)
+![Massas](img/inicio-massas.jpg)
+![Doces Bia Brandão](img/inicio-1.jpg)
+![Doces Bia Brandão](img/inicio-2.jpg)
 
 <a class="whats" href="https://wa.me/5547992220924">Pedidos pelo WhatsApp: (47) 99222-0924</a>
 

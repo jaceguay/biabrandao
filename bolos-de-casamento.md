@@ -7,7 +7,7 @@ title: Bolos de Casamento
 
 ## Bolos de andar
 
-![Bolo de andar](/img/casamento-1.jpg)
+![Bolo de andar](img/casamento-1.jpg)
 
 Para fazer um orçamento, envie a data do casamento e o local (ao ar livre ou fechado). Dependendo do número de convidados, o bolo de andar pode ser complementado com um bolo de corte.
 
