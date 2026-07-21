@@ -24,6 +24,7 @@ Bem-vindo!
 ![Doces Bia Brandão](img/0_bolo_apresentacao.jpg)
 ![Doces Bia Brandão](img/0_foto_apresentacao.png)
 
-<a class="whats" href="https://wa.me/5547992220924">Pedidos pelo WhatsApp: (47) 99222-0924</a>
-
-[Instagram: @biabrandaooficial](https://www.instagram.com/biabrandaooficial/)
+<div class="contatos">
+  <a href="https://www.instagram.com/biabrandaooficial/"><img src="img/instagran.png" alt="Instagram: @biabrandaooficial"></a>
+  <a href="https://wa.me/5547992220924"><img src="img/whatsapp.jpg" alt="WhatsApp: (47) 99222-0924"></a>
+</div>

@@ -136,3 +136,13 @@ footer {
 }
 
 .whats:hover { background: var(--rosa-escuro); }
+
+.contatos { margin-top: 1.5rem; }
+
+.contatos img {
+  max-width: 260px;
+  border: none;
+  border-radius: 0;
+  margin: 0.4rem 0;
+  display: block;
+}
