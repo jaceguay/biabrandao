@@ -7,8 +7,8 @@ title: Bolos
 
 ## Bolo Lungcake
 
-![Bolo Lungcake](img/bolos-lungcake-1.jpg)
-![Bolo Lungcake](img/bolos-lungcake-2.jpg)
+![Bolo Lungcake](img/2_bolo_lungcake_1.jpg)
+![Bolo Lungcake](img/2_bolo_lungcake_2.jpg)
 
 Lançamento, novo formato. Massa de cacau 100% com iogurte natural. Recheio de doce de leite caseiro da roça (cremoso) e ganache de maracujá. Cobertura de chocolate com doce de leite, creme de leite fresco e cacau. Decoração como na referência ou a critério da cliente.
 
@@ -16,8 +16,8 @@ Lançamento, novo formato. Massa de cacau 100% com iogurte natural. Recheio de d
 
 ## Bolo Pudim
 
-![Bolo Pudim](img/bolos-pudim-1.jpg)
-![Bolo Pudim](img/bolos-pudim-2.jpg)
+![Bolo Pudim](img/2_bolo_pudim_1.jpg)
+![Bolo Pudim](img/2_bolo_pudim_2.jpg)
 
 Long cake, massa amanteigada de baunilha. Recheio com uma camada de cocada cremosa com coco tostado e ameixa ou doce de leite, e outra camada de pudim. Cobertura de chantilly com creme de leite fresco. Decoração com pudim.
 
@@ -25,8 +25,8 @@ Long cake, massa amanteigada de baunilha. Recheio com uma camada de cocada cremo
 
 ## Bolo Snickers
 
-![Bolo Snickers](img/bolos-snickers-1.jpg)
-![Bolo Snickers](img/bolos-snickers-2.jpg)
+![Bolo Snickers](img/2_bolo_snickers_1.jpg)
+![Bolo Snickers](img/2_bolo_snickers_2.jpg)
 
 Massa de cacau 100% com iogurte natural e óleo de girassol. Recheio de cream cheese frosting com pasta de amendoim artesanal, caramelo salgado e amendoim. Cobertura igual ao recheio. Decoração como na referência ou a critério da cliente.
 
@@ -34,8 +34,8 @@ Massa de cacau 100% com iogurte natural e óleo de girassol. Recheio de cream ch
 
 ## Red Velvet
 
-![Red Velvet](img/bolos-redvelvet-1.jpg)
-![Red Velvet](img/bolos-redvelvet-2.jpg)
+![Red Velvet](img/2_bolo_red_1.jpg)
+![Red Velvet](img/2_bolo_red_2.jpg)
 
 Massa amanteigada com sabor de chocolate e corante vermelho. Recheio de cream cheese frosting com redução de frutas vermelhas e lemon curd (creme de limão siciliano).
 
@@ -43,7 +43,7 @@ Massa amanteigada com sabor de chocolate e corante vermelho. Recheio de cream ch
 
 ## Red Velvet na taça
 
-![Red Velvet na taça](img/bolos-redvelvet-taca.jpg)
+![Red Velvet na taça](img/2_bolo_red_taca_1.jpg)
 
 Camadas de massa amanteigada com sabor de chocolate e corante vermelho, creme de cream cheese frosting com redução de frutas vermelhas e curd de limão siciliano. Rende 8 porções.
 
@@ -51,8 +51,8 @@ Camadas de massa amanteigada com sabor de chocolate e corante vermelho, creme de
 
 ## Marina
 
-![Bolo Marina](img/bolos-marina-1.jpg)
-![Bolo Marina](img/bolos-marina-2.jpg)
+![Bolo Marina](img/2_bolo_marina_1.jpg)
+![Bolo Marina](img/2_bolo_marina_2.jpg)
 
 Massa amanteigada saborizada com extrato de baunilha. Recheio de creme 4 leites com redução de frutas vermelhas e doce de leite caseiro.
 
@@ -60,7 +60,7 @@ Massa amanteigada saborizada com extrato de baunilha. Recheio de creme 4 leites 
 
 ## Torta Letícia
 
-![Torta Letícia](img/bolos-leticia.jpg)
+![Torta Letícia](img/2_bolo_leticia_1.jpg)
 
 Pão de ló de chocolate. Recheio de damasco e cream cheese frosting com crocante de nozes. Cobertura de merengue suíço maçaricado, decorado com damascos e crocante de nozes.
 
@@ -68,8 +68,8 @@ Pão de ló de chocolate. Recheio de damasco e cream cheese frosting com crocant
 
 ## Morango à lá Bia
 
-![Morango à lá Bia](img/bolos-morango-1.jpg)
-![Morango à lá Bia](img/bolos-morango-2.jpg)
+![Morango à lá Bia](img/2_bolo_morango_bia_1.jpg)
+![Morango à lá Bia](img/2_bolo_morango_bia_2.jpg)
 
 Pão de ló de baunilha e chocolate. Recheio de brigadeiro branco com morango, chantilly com suspiro e brigadeiro de chocolate com morangos. Cobertura de chantininho.
 
@@ -77,14 +77,14 @@ Pão de ló de baunilha e chocolate. Recheio de brigadeiro branco com morango, c
 
 ## Bolos com cobertura de buttercream
 
-![Bolo com buttercream](img/bolos-buttercream.jpg)
+![Bolo com buttercream](img/2_bolo_buttercream_1.jpg)
 
 **R$ 125,00 o kg.**
 
 ## Bolo de chocolate com caramelo salgado e amendoim
 
-![Bolo de chocolate com caramelo salgado](img/bolos-chocolate-caramelo-1.jpg)
-![Bolo de chocolate com caramelo salgado](img/bolos-chocolate-caramelo-2.jpg)
+![Bolo de chocolate com caramelo salgado](img/2_bolo_choco_caramelo_1.jpg)
+![Bolo de chocolate com caramelo salgado](img/2_bolo_choco_caramelo_2.jpg)
 
 Recheio de ganache de chocolate meio amargo com caramelo salgado e amendoim. Massa de cacau 100%, iogurte natural e óleo de girassol. Três camadas de recheio e quatro de massa (pode acrescentar uma camada a mais). Cobertura de ganache meio amargo e amendoim.
 
@@ -92,7 +92,7 @@ Recheio de ganache de chocolate meio amargo com caramelo salgado e amendoim. Mas
 
 ## Bolo de coco com abacaxi
 
-![Bolo de coco com abacaxi](img/bolos-coco-abacaxi.jpg)
+![Bolo de coco com abacaxi](img/2_bolo_coco_abacaxi_1.jpg)
 
 Massa amanteigada com coco. Recheio com duas camadas de cocada cremosa com abacaxi e uma camada de cocada. Cobertura de chantilly com creme de leite fresco (nata). Decoração a critério do cliente.
 
@@ -100,7 +100,7 @@ Massa amanteigada com coco. Recheio com duas camadas de cocada cremosa com abaca
 
 ## Pistache com frutas vermelhas
 
-![Pistache com frutas vermelhas](img/bolos-pistache.jpg)
+![Pistache com frutas vermelhas](img/2_bolo_pistache_f_vermelhas_1.jpg)
 
 Massa amanteigada. Recheio de baba de moça, brigadeiro de pistache e creme 4 leites com redução de frutas vermelhas (o brigadeiro pode virar ganache de pistache). Decoração a critério do cliente.
 
@@ -128,7 +128,7 @@ Cobrados à parte, consultar no orçamento. Flores naturais (a partir de R$ 22),
 
 ## Tamanhos e rendimentos
 
-![Tabela de tamanhos e rendimentos](img/bolos-tamanhos.jpg)
+![Tabela de tamanhos e rendimentos](img/bolos_tamanhos_ref.png)
 
 Bolos com massa amanteigada pesam mais. Recheio e decoração influenciam no peso final.
 
