@@ -3,7 +3,7 @@ layout: default
 title: Início
 ---
 
-![logo](img/logo.png)
+![logo](img/logo_v.png)
 
 # Olá
 
@@ -22,6 +22,8 @@ E desde já, é claro, agradeço pela confiança!
 Bem-vindo!
 
 ![Doces Bia Brandão](img/0_bolo_apresentacao.jpg)
+
+
 ![Doces Bia Brandão](img/0_foto_apresentacao.png)
 
 <div class="contatos">
