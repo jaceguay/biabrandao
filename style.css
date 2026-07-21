@@ -87,7 +87,6 @@ main img {
   max-width: 340px;
   height: auto;
   border-radius: 8px;
-  border: 1px solid var(--borda);
   margin: 0.5rem 0;
   display: block;
 }
