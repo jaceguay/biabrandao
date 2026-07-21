@@ -87,7 +87,7 @@ main img {
   max-width: 340px;
   height: auto;
   border-radius: 8px;
-  margin: 0.5rem 0;
+  margin: 0.5rem auto;
   display: block;
 }
 
@@ -143,6 +143,6 @@ footer {
   max-width: 260px;
   border: none;
   border-radius: 0;
-  margin: 0.4rem 0;
+  margin: 0.4rem auto;
   display: block;
 }
